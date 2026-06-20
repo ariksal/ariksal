@@ -1,20 +1,21 @@
 # Hi, I'm Arik 👋
 
-I build real, working software by directing AI — turning ideas into shipped products across web apps, APIs, and tools. Self-taught and AI-native, I design, build, and ship end-to-end with an AI-assisted workflow.
+I'm a self-taught, AI-native builder. I don't write code by hand — I **direct AI tools (like Claude) to design, build, test, and ship real software**, while I own the product and design decisions. My edge is turning an idea into a working product, and knowing when to trust the AI's output versus when to dig in and verify.
 
-🎯 **Focused on putting AI to work for communities and social impact** (applying to Anthropic's Claude Corps).
+I care about technology that helps people **belong** — not technology that mines their attention.
 
-## What I'm building
-- 🫂 **[LYNK](https://github.com/ariksal/lynk)** — a community platform to reduce loneliness. No follower counts, no likes — belonging over performance. · *Next.js · Supabase*
-- ⚔️ **[Life RPG](https://github.com/ariksal/life-rpg)** — turn real life into an RPG, with Claude as the AI game master scoring your progress. · *Next.js · Anthropic API · SQLite*
-- 📚 **[Historia del Siglo XX](https://github.com/ariksal/historia-quiz)** — an interactive history study & quiz app. · *Next.js*
-- 💍 **[Mesuvim](https://github.com/ariksal/mesuvim)** — a serverless wedding-invitee REST API. · *Cloudflare Workers · KV*
+## 🌱 Co-Founder of two early-stage ventures
+- 🫂 **[LYNK](https://github.com/ariksal/lynk)** — a belonging platform that helps people find their people *without* follower counts, likes, or vanity metrics. Currently focused on youth in the Mexican Jewish community, connecting them to their youth movements, schools, and groups. — *Co-Founder & Builder*
+- 💌 **[Mesuvim](https://github.com/ariksal/mesuvim)** — AI-powered personalized invitations, RSVP, and seating arrangements for events. — *Co-Founder, Product & Design*
 
-## How I work
-I'm a non-traditional builder: I use AI tools — Claude, agents, and modern frameworks — to ship complete products, and I care about software that helps people rather than chases vanity metrics.
+## 🛠️ Also building
+- ⚔️ **[Life RPG](https://github.com/ariksal/life-rpg)** — a personal project where Claude acts as an "AI game master," scoring your real-world tasks into XP. Built on the Anthropic API.
+- 📚 **[Historia del Siglo XX](https://github.com/ariksal/historia-quiz)** — an interactive 20th-century history study & quiz app.
 
-## Tech I reach for
-`Next.js` · `React` · `TypeScript` · `Supabase` · `Cloudflare Workers` · `Python` · `Tailwind` · `Anthropic API`
+## How I build
+I'm an AI **orchestrator**, not an engineer: I specify, prompt, integrate, test, and iterate with AI tools to ship complete products. My edge is product judgment and discernment — deciding *what* to build, verifying it works, and getting it shipped.
 
----
+## 🎯 Currently
+Putting AI to work for communities and social impact — and applying to Anthropic's **Claude Corps**.
+
 📫 ariksalinas@gmail.com
